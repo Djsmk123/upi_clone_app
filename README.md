@@ -21,12 +21,12 @@ flutter build apk --release
 - [video1](https://drive.google.com/file/d/1AeuDmH5AVo8bIq9ys1-EdpwDJl5wqIAR/view?usp=sharing)
 - [video2](https://drive.google.com/file/d/1AgIvnV4YTjJM1yHAt9miQk8p5B7EUKLg/view?usp=sharing)
 ## Screenshots
-- (image 1)[./outputs/1.jpg]
-- (image 2)[./outputs/2.jpg]
-- (image 3)[./outputs/3.jpg]
-- (image 4)[./outputs/4.jpg]
-- (image 5)[./outputs/5.jpg]
-- (image 6)[./outputs/6.jpg]
+- ![image 1](./outputs/1.jpg)
+- ![image 2](./outputs/2.jpg)
+- ![image 3](./outputs/3.jpg)
+- ![image 4](./outputs/4.jpg)
+- ![image 5](./outputs/5.jpg)
+- ![image 6](./outputs/6.jpg)
 
 ## Run Build runner 
 dart run build_runner watch --delete-conflicting-outputs
